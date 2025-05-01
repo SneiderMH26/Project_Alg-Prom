@@ -1,44 +1,69 @@
 # Project_Alg-Prom
-# S.I.P.U - SISTEMA INTEGRAL DEL PARQUEO URBANO
+# _S.I.P.U_ - SISTEMA INTEGRAL DEL PARQUEO URBANO
 ## 1) Integrantes y Descripcion
-Esneider Montes Hincapie
-Valeria Henao Londoño
 
-Este repositorio corresponde a nuestro proyecto final para el curso de Algoritmia y Programación de la Universidad de Antioquia. El proyecto está enfocado en la creación de un sistema de gestión para el parqueadero universitario, denominado Parking Trust.
+Esneider Montes Hincapie - Valeria Henao Londoño
+
+Este repositorio corresponde a nuestro proyecto final para el curso de Algoritmia y Programación de la Universidad de Antioquia. El proyecto está enfocado en la creación de un sistema de gestión para el parqueadero universitario **Parking Trust**.
 
 ## 2) Vinculos academicos y descripcion 
-Esneider (ingenieria industrial)
-habilidades:analisis de datos cuenta y finanzas 
-fortalezas: ingles basico trabajo en equipo adaptibilidad gestion del tiempo 
-Valeria (ingenieria industrial) 
-habilidades: creatividad, destresa 
-fortalezas: constancia, resolver conflictos sin escalar el problema, trabajo en equipo
 
-## 3) Nombre del proyecto y detalles
+### Esneider Hincapie
+**Programa:** Ingenieria Industrial  
 
-El proyecto consiste en el desarrollo de una aplicación de consola en Python llamada S.I.P.U (Sistema Integral del Parking Urbano). Su objetivo es automatizar la gestión de un parqueadero universitario mediante el registro de usuarios, control de ingreso y salida de vehículos, cálculo de tarifas y generación de reportes administrativos.
+**Habilidades y Fortalezas:**  
+- Análisis de datos  
+- Contabilidad y finanzas  
+- Manejo de Excel  
+- Inglés básico  
+- Trabajo en equipo  
+- Adaptabilidad  
+- Gestión del tiempo  
+- Empatía  
+- Resolución de problemas  
+
+**Descripción:**  
+Esneider aporta una base sólida en gestión financiera, análisis de información y organización, lo cual fortalece el control y seguimiento técnico del sistema.
+
+### Valeria Henao Londoño  
+**Programa:** Ingenieria Industrial  
+
+**Habilidades y Fortalezas:**  
+- Perseverancia  
+- Capacidad para negociar sin parecer agresiva  
+- Resolución de conflictos sin escalar los problemas  
+- Habilidad para pedir ayuda en el momento y a la persona correcta  
+
+**Descripción:**  
+Valeria contribuye al equipo con habilidades interpersonales clave para la coordinación del proyecto, comunicación efectiva y resolución de situaciones críticas de forma equilibrada.
+
+## 3. Nombre del Proyecto y Detalles
+**Nombre del proyecto:** S.I.P.U – Sistema Integral del Parqueo Urbano
+
+**Descripción del proyecto:**  
+S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar el parqueadero universitario **Parking Trust**, permitiendo registrar usuarios, controlar el ingreso y retiro de vehículos, calcular tarifas de parqueo y generar reportes administrativos. Todo esto con una interfaz amigable y exportación de datos en formato CSV.
 
 ## 4) licencia del software 
 
 ## 5) reporte de vision
-El sistema cubrirá:
-  Registro y validación de datos de usuarios y vehículos.
-  Control de ingreso y salida de vehículos.
-  Cálculo y cobro de tarifas según tiempo.
+### El sistema cubrira:
+  Registro y validacion de datos de usuarios y vehiculos.
+  Control de ingreso y salida de vehiculos.
+  Calculo y cobro de tarifas segun tiempo.
   Acceso a un módulo administrativo protegido por credenciales.
-  Exportación de reportes a CSV.
-  Registro automático en un log de eventos detallado.
+  Exportacion de reportes a CSV.
+  Registro automatico en un log de eventos detallado.
   
-Objetivo
-  Desarrollar un software de consola amigable para gestionar el parqueadero universitario, automatizando el registro, cobro y reporte de     vehículos.
+### Objetivo:
+  Desarrollar un software de consola amigable para gestionar el parqueadero universitario, automatizando el registro, cobro y reporte de vehículos.
 
-Beneficios
+### Beneficios:
   Mejora la organización y trazabilidad del parqueadero.
   Reduce errores humanos.
   Facilita el análisis administrativo con reportes exportables.
 
-  ## 6) especificacion de requisitos 
-Requisitos funcionales
+## 6) especificacion de requisitos 
+### Requisitos funcionales
   Registrar usuarios con validaciones estrictas (nombre, apellido, documento, placa).
   Ingreso de vehículos de usuarios registrados.
   Registro de hora de entrada y salida.
