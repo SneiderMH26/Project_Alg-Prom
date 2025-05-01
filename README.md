@@ -32,7 +32,7 @@ Esneider aporta una base sólida en gestión financiera, análisis de informaci�
 - Resolución de conflictos sin escalar los problemas  
 - Habilidad para pedir ayuda en el momento y a la persona correcta  
 
-*Descripción:*  
+**Descripción:**  
 Valeria contribuye al equipo con habilidades interpersonales clave para la coordinación del proyecto, comunicación efectiva y resolución de situaciones críticas de forma equilibrada.
 
 ## 3. Nombre del Proyecto y Detalles
