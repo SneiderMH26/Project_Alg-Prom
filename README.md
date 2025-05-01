@@ -44,7 +44,7 @@ Valeria contribuye al equipo con habilidades interpersonales clave para la coord
 S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar el parqueadero universitario *Parking Trust*, permitiendo registrar usuarios, controlar el ingreso y retiro de vehículos, calcular tarifas de parqueo y generar reportes administrativos. Todo esto con una interfaz amigable y exportación de datos en formato CSV.
 
 ## 4) licencia del software 
-
+**S.I.P.U © 2025 by ESNEIDER MONTES HINCAPIE & VALERIA HENAO LONDOÑO is licensed under CC BY-NC-ND 4.0**
 
 ## 5) reporte de vision
 ### El sistema cubrira:
