@@ -21,7 +21,7 @@ El proyecto consiste en el desarrollo de una aplicación de consola en Python ll
 ## 4) licencia del software 
 
 ## 5) reporte de vision
-###El sistema cubrirá:
+El sistema cubrirá:
   Registro y validación de datos de usuarios y vehículos.
   Control de ingreso y salida de vehículos.
   Cálculo y cobro de tarifas según tiempo.
@@ -29,16 +29,16 @@ El proyecto consiste en el desarrollo de una aplicación de consola en Python ll
   Exportación de reportes a CSV.
   Registro automático en un log de eventos detallado.
   
-###Objetivo
+Objetivo
   Desarrollar un software de consola amigable para gestionar el parqueadero universitario, automatizando el registro, cobro y reporte de     vehículos.
 
-###Beneficios
+Beneficios
   Mejora la organización y trazabilidad del parqueadero.
   Reduce errores humanos.
   Facilita el análisis administrativo con reportes exportables.
 
   ## 6) especificacion de requisitos 
-###Requisitos funcionales
+Requisitos funcionales
   Registrar usuarios con validaciones estrictas (nombre, apellido, documento, placa).
   Ingreso de vehículos de usuarios registrados.
   Registro de hora de entrada y salida.
@@ -49,7 +49,7 @@ El proyecto consiste en el desarrollo de una aplicación de consola en Python ll
   Reportes: vehículos registrados, retirados, sin retirar, pagos, tiempo promedio, etc.
   Registro de logs de eventos con precisión temporal.
 
-###Requisitos no funcionales
+Requisitos no funcionales
   Interfaz de consola amigable y validada.
   Tiempo de respuesta rápido (< 1 segundo en operaciones básicas).
   Compatible con sistemas operativos Windows, Linux y macOS.
