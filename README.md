@@ -84,3 +84,31 @@ S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar
   * Soporte para almacenamiento plano (CSV) sin base de datos.
 
 ## 7) plan de proyecto
+
+### Cronograma (Diagrama de Gantt simplificado)
+
+| Semana | Actividad                                |
+|--------|------------------------------------------|
+| 1-2    | Recolección de requisitos                 |
+| 3-4    | Diseño del sistema y validaciones         |
+| 5-6    | Programación básica (registro, ingreso)   |
+| 7-8    | Programación de retiro y cobro            |
+| 9-10   | Módulo administrador y reportes           |
+| 11     | Pruebas internas y ajustes                |
+| 12     | Exportación a CSV y documentación         |
+| 13-14  | Preparación de entrega y subida a GitHub  |
+| 15     | Ensayo de sustentación                    |
+| 16     | Sustentación final                        |
+
+### Presupuesto (en horas)
+
+Total de horas del grupo: **3 integrantes × 50 h = 150 horas**  
+Equivalente a práctica profesional pagada a 1 SMLV.
+
+| Actividad                      | Horas estimadas |
+|-------------------------------|------------------|
+| Análisis y documentación      | 30 h             |
+| Desarrollo (código)           | 80 h             |
+| Pruebas y validaciones        | 20 h             |
+| Documentación y entrega final | 20 h             |
+| Presentación y ensayo         | 10 h             |
