@@ -24,9 +24,9 @@ Este repositorio corresponde a nuestro proyecto final para el curso de Algoritmi
 Esneider aporta una base sólida en gestión financiera, análisis de información y organización, lo cual fortalece el control y seguimiento técnico del sistema.
 
 ### Valeria Henao Londoño  
-*Programa:* Ingenieria Industrial  
+**Programa:** Ingenieria Industrial  
 
-*Habilidades y Fortalezas:*  
+**Habilidades y Fortalezas:**  
 - Perseverancia  
 - Capacidad para negociar sin parecer agresiva  
 - Resolución de conflictos sin escalar los problemas  
@@ -41,7 +41,7 @@ Valeria contribuye al equipo con habilidades interpersonales clave para la coord
 ![S I P U](https://github.com/user-attachments/assets/bd75d302-eed4-4d88-b30f-b31504d69a01)
 
 **Descripción del proyecto:**  
-S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar el parqueadero universitario *Parking Trust*, permitiendo registrar usuarios, controlar el ingreso y retiro de vehículos, calcular tarifas de parqueo y generar reportes administrativos. Todo esto con una interfaz amigable y exportación de datos en formato CSV.
+S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar el parqueadero universitario **Parking Trust**, permitiendo registrar usuarios, controlar el ingreso y retiro de vehículos, calcular tarifas de parqueo y generar reportes administrativos. Todo esto con una interfaz amigable y exportación de datos en formato CSV.
 
 ## 4) licencia del software 
 **S.I.P.U © 2025 by ESNEIDER MONTES HINCAPIE & VALERIA HENAO LONDOÑO is licensed under CC BY-NC-ND 4.0**
@@ -53,7 +53,6 @@ S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar
   * Calculo y cobro de tarifas segun tiempo.
   * Acceso a un módulo administrativo protegido por credenciales.
   * Exportacion de reportes a CSV.
-  * Registro automatico en un log de eventos detallado.
   
 ### Objetivo:
   Desarrollar un software de consola amigable para gestionar el parqueadero universitario, automatizando el registro, cobro y reporte de vehículos.
@@ -78,37 +77,46 @@ S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar
 ### Requisitos no funcionales
   * Interfaz de consola amigable y validada.
   * Tiempo de respuesta rápido (< 1 segundo en operaciones básicas).
-  * Compatible con sistemas operativos Windows, Linux y macOS.
   * Código estructurado y documentado.
   * Uso de estructuras de datos eficientes.
-  * Soporte para almacenamiento plano (CSV) sin base de datos.
 
-## 7) plan de proyecto
+## 7. Plan de Proyecto
 
-### Cronograma (Diagrama de Gantt)
+### Actividades del Proyecto
+1. Reunión inicial y acta de entendimiento
+2. Levantamiento de requisitos con el Product Owner (profesor)
+3. Diseño del modelo lógico y estructura de datos
+4. Desarrollo del módulo de registro de usuarios
+5. Desarrollo del módulo de ingreso y retiro de vehículos
+6. Desarrollo del módulo administrativo y generación de reportes
+7. Pruebas funcionales y de validación de datos
+8. Exportación de reportes a formato CSV
+9. Documentación técnica y manual de usuario
+10. Presentación final y sustentación del proyecto
 
-| Semana | Actividad                                |
-|--------|------------------------------------------|
-| 1-2    | Recolección de requisitos                 |
-| 3-4    | Diseño del sistema y validaciones         |
-| 5-6    | Programación básica (registro, ingreso)   |
-| 7-8    | Programación de retiro y cobro            |
-| 9-10   | Módulo administrador y reportes           |
-| 11     | Pruebas internas y ajustes                |
-| 12     | Exportación a CSV y documentación         |
-| 13-14  | Preparación de entrega y subida a GitHub  |
-| 15     | Ensayo de sustentación                    |
-| 16     | Sustentación final                        |
+### Cronograma General (tipo Gantt - Semana 1 a 16)
 
-### Presupuesto (en horas)
+| Semana | Actividad                                                     |
+|--------|---------------------------------------------------------------|
+| 1      | Reunión inicial y actas                                       |
+| 2 - 3  | Recolección de requisitos y diseño general del sistema        |
+| 4 - 6  | Desarrollo de funcionalidades principales                     |
+| 7 - 8  | Pruebas iniciales y entrega parcial (puntos 1 al 7)           |
+| 9 - 12 | Desarrollo del módulo administrativo y exportación de datos   |
+| 13 - 14| Documentación y pruebas finales                               |
+| 15     | Preparación de sustentación                                   |
+| 16     | Sustentación del proyecto                                     |
 
-Total de horas del grupo: **3 integrantes × 50 h = 150 horas**  
-Equivalente a práctica profesional pagada a 1 SMLV.
+### Presupuesto del Proyecto
+El desarrollo del proyecto se calcula con base en **tiempo de práctica formativa**. Nuestro equipo está conformado por **2 estudiantes**, con una dedicación total estimada de **50 horas** (25 horas por estudiante).
 
-| Actividad                      | Horas estimadas |
-|-------------------------------|------------------|
-| Análisis y documentación      | 30 h             |
-| Desarrollo (código)           | 80 h             |
-| Pruebas y validaciones        | 20 h             |
-| Documentación y entrega final | 20 h             |
-| Presentación y ensayo         | 10 h             |
+- Valor de referencia: **1 SMMLV mensual en Colombia**.
+- Suposición: 1 SMLV = **$1.423.500 COP**
+- Valor hora de práctica:  
+  $1.423.500 / 160 horas mensuales ≈ **$8.896,87 COP/hora**
+- Costo total del proyecto:  
+  50 horas × $8.896,87 = **$444.853,75 COP (equivalente en tiempo invertido)**
+
+*(**Nota**: Este valor es simbólico y representa el tiempo invertido como práctica formativa, no un cobro monetario.)*
+
+
