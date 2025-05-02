@@ -85,7 +85,7 @@ S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar
 
 ## 7) plan de proyecto
 
-### Cronograma (Diagrama de Gantt simplificado)
+### Cronograma (Diagrama de Gantt)
 
 | Semana | Actividad                                |
 |--------|------------------------------------------|
