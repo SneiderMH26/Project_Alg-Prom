@@ -1,12 +1,26 @@
 # Project_Alg-Prom
-# S.I.P.U - SISTEMA INTEGRAL DEL PARQUEO URBANO
-## 1) Integrantes y Descripcion
+
+## ACTAS
+### Acta de colaboración
+[Acta de Colaboración.pdf](https://github.com/user-attachments/files/20020686/Acta.de.Colaboracion.pdf)
+
+### Acta de entendimiento
+[Acta de Entendimiento.pdf](https://github.com/user-attachments/files/20020688/Acta.de.Entendimiento.pdf)
+
+### Acta de responsabilidad
+[Acta de Responsabilidad.pdf](https://github.com/user-attachments/files/20020689/Acta.de.Responsabilidad.pdf)
+
+# ENTREGABLE (1ra ENTREGA, 1 - 7)
+
+## S.I.P.U - SISTEMA INTEGRAL DEL PARQUEO URBANO
+
+### 1) Integrantes y Descripcion
 Esneider Montes Hincapie - Valeria Henao Londoño
 
 Este repositorio corresponde a nuestro proyecto final para el curso de Algoritmia y Programación de la Universidad de Antioquia. El proyecto está enfocado en la creación de un sistema de gestión para el parqueadero universitario **Parking Trust**.
 
-## 2) Vinculos academicos y descripcion 
-### Esneider Hincapie
+### 2) Vinculos academicos y descripcion 
+#### Esneider Hincapie
 **Programa:** Ingenieria Industrial  
 
 **Habilidades y Fortalezas:**  
@@ -23,7 +37,7 @@ Este repositorio corresponde a nuestro proyecto final para el curso de Algoritmi
 **Descripción:**
 Esneider aporta una base sólida en gestión financiera, análisis de información y organización, lo cual fortalece el control y seguimiento técnico del sistema.
 
-### Valeria Henao Londoño  
+#### Valeria Henao Londoño  
 **Programa:** Ingenieria Industrial  
 
 **Habilidades y Fortalezas:**  
@@ -35,7 +49,7 @@ Esneider aporta una base sólida en gestión financiera, análisis de informaci�
 **Descripción:**  
 Valeria contribuye al equipo con habilidades interpersonales clave para la coordinación del proyecto, comunicación efectiva y resolución de situaciones críticas de forma equilibrada.
 
-## 3. Nombre del Proyecto y Detalles
+### 3. Nombre del Proyecto y Detalles
 **Nombre del proyecto:** S.I.P.U – Sistema Integral del Parqueo Urbano
 
 ![S I P U](https://github.com/user-attachments/assets/bd75d302-eed4-4d88-b30f-b31504d69a01)
@@ -43,27 +57,27 @@ Valeria contribuye al equipo con habilidades interpersonales clave para la coord
 **Descripción del proyecto:**  
 S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar el parqueadero universitario **Parking Trust**, permitiendo registrar usuarios, controlar el ingreso y retiro de vehículos, calcular tarifas de parqueo y generar reportes administrativos. Todo esto con una interfaz amigable y exportación de datos en formato CSV.
 
-## 4) licencia del software 
+### 4) licencia del software 
 **S.I.P.U © 2025 by ESNEIDER MONTES HINCAPIE & VALERIA HENAO LONDOÑO is licensed under CC BY-NC-ND 4.0**
 
-## 5) reporte de vision
-### El sistema cubrira:
+### 5) reporte de vision
+#### El sistema cubrira:
   * Registro y validacion de datos de usuarios y vehiculos.
   * Control de ingreso y salida de vehiculos.
   * Calculo y cobro de tarifas segun tiempo.
   * Acceso a un módulo administrativo protegido por credenciales.
   * Exportacion de reportes a CSV.
   
-### Objetivo:
+#### Objetivo:
   Desarrollar un software de consola amigable para gestionar el parqueadero universitario, automatizando el registro, cobro y reporte de vehículos.
 
-### Beneficios:
+#### Beneficios:
   * Mejora la organización y trazabilidad del parqueadero.
   * Reduce errores humanos.
   * Facilita el análisis administrativo con reportes exportables.
 
-## 6) especificacion de requisitos 
-### Requisitos funcionales
+### 6) especificacion de requisitos 
+#### Requisitos funcionales
   * Registrar usuarios con validaciones estrictas (nombre, apellido, documento, placa).
   * Ingreso de vehículos de usuarios registrados.
   * Registro de hora de entrada y salida.
@@ -74,15 +88,15 @@ S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar
   * Reportes: vehículos registrados, retirados, sin retirar, pagos, tiempo promedio, etc.
   * Registro de logs de eventos con precisión temporal.
 
-### Requisitos no funcionales
+#### Requisitos no funcionales
   * Interfaz de consola amigable y validada.
   * Tiempo de respuesta rápido (< 1 segundo en operaciones básicas).
   * Código estructurado y documentado.
   * Uso de estructuras de datos eficientes.
 
-## 7. Plan de Proyecto
+### 7. Plan de Proyecto
 
-### Actividades del Proyecto
+#### Actividades del Proyecto
 1. Reunión inicial y acta de entendimiento
 2. Levantamiento de requisitos con el Product Owner (profesor)
 3. Diseño del modelo lógico y estructura de datos
@@ -94,7 +108,7 @@ S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar
 9. Documentación técnica y manual de usuario
 10. Presentación final y sustentación del proyecto
 
-### Cronograma General (tipo Gantt - Semana 1 a 16)
+#### Cronograma General (tipo Gantt - Semana 1 a 16)
 
 | Semana | Actividad                                                     |
 |--------|---------------------------------------------------------------|
@@ -107,7 +121,7 @@ S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar
 | 15     | Preparación de sustentación                                   |
 | 16     | Sustentación del proyecto                                     |
 
-### Presupuesto del Proyecto
+#### Presupuesto del Proyecto
 El desarrollo del proyecto se calcula con base en **tiempo de práctica formativa**. Nuestro equipo está conformado por **2 estudiantes**, con una dedicación total estimada de **50 horas** (25 horas por estudiante).
 
 - Valor de referencia: **1 SMMLV mensual en Colombia**.
@@ -118,5 +132,3 @@ El desarrollo del proyecto se calcula con base en **tiempo de práctica formativ
   50 horas × $8.896,87 = **$444.853,75 COP (equivalente en tiempo invertido)**
 
 *(**Nota**: Este valor es simbólico y representa el tiempo invertido como práctica formativa, no un cobro monetario.)*
-
-
