@@ -155,7 +155,7 @@ A continuación se describe el historial de versiones del software "Parking Trus
 
 ### 9. Código fuente carpeta src
 
-El código principal del proyecto se encuentra en la carpeta [`src`](./src):
+El código principal del proyecto se encuentra en el siguiente link:
 
 - [`parking_trust.py`](./src/parking_trust.py): contiene todo el algoritmo funcional del sistema Parking Trust, desde el registro hasta los reportes administrativos y la exportación de datos.
 
