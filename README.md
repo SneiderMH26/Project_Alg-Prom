@@ -2,13 +2,13 @@
 
 ## ACTAS
 ### Acta de colaboración
-[Acta de Colaboración.pdf](https://github.com/user-attachments/files/20020686/Acta.de.Colaboracion.pdf)
+[Acta de Colaboración.pdf](https://github.com/user-attachments/files/21201500/Acta.de.Colaboracion.pdf)
 
 ### Acta de entendimiento
-[Acta de Entendimiento.pdf](https://github.com/user-attachments/files/20020688/Acta.de.Entendimiento.pdf)
+[Acta de Entendimiento.pdf](https://github.com/user-attachments/files/21201499/Acta.de.Entendimiento.pdf)
 
 ### Acta de responsabilidad
-[Acta de Responsabilidad.pdf](https://github.com/user-attachments/files/20020689/Acta.de.Responsabilidad.pdf)
+[Acta de Responsabilidad.pdf](https://github.com/user-attachments/files/21201498/Acta.de.Responsabilidad.pdf)
 
 ## S.I.P.U - SISTEMA INTEGRAL DEL PARQUEO URBANO
 
