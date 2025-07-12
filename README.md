@@ -10,8 +10,6 @@
 ### Acta de responsabilidad
 [Acta de Responsabilidad.pdf](https://github.com/user-attachments/files/20020689/Acta.de.Responsabilidad.pdf)
 
-# ENTREGABLE (1ra ENTREGA, 1 - 7)
-
 ## S.I.P.U - SISTEMA INTEGRAL DEL PARQUEO URBANO
 
 ### 1) Integrantes y Descripcion
@@ -21,6 +19,8 @@ Este repositorio corresponde a nuestro proyecto final para el curso de Algoritmi
 
 ### 2) Vinculos academicos y descripcion 
 #### Esneider Hincapie
+**Universidad:** Universidad de Antioquia
+**Facultad:** Ftad. de Ingeniería
 **Programa:** Ingenieria Industrial  
 
 **Habilidades y Fortalezas:**  
@@ -38,6 +38,8 @@ Este repositorio corresponde a nuestro proyecto final para el curso de Algoritmi
 Esneider aporta una base sólida en gestión financiera, análisis de información y organización, lo cual fortalece el control y seguimiento técnico del sistema.
 
 #### Valeria Henao Londoño  
+**Universidad:** Universidad de Antioquia
+**Facultad:** Ftad. de Ingeniería
 **Programa:** Ingenieria Industrial  
 
 **Habilidades y Fortalezas:**  
@@ -108,18 +110,23 @@ S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar
 9. Documentación técnica y manual de usuario
 10. Presentación final y sustentación del proyecto
 
-#### Cronograma General (tipo Gantt - Semana 1 a 16)
+#### Plan de proyecto (Cronograma de actividades (tipo Gantt))
 
-| Semana | Actividad                                                     |
-|--------|---------------------------------------------------------------|
-| 1      | Reunión inicial y actas                                       |
-| 2 - 3  | Recolección de requisitos y diseño general del sistema        |
-| 4 - 6  | Desarrollo de funcionalidades principales                     |
-| 7 - 8  | Pruebas iniciales y entrega parcial (puntos 1 al 7)           |
-| 9 - 12 | Desarrollo del módulo administrativo y exportación de datos   |
-| 13 - 14| Documentación y pruebas finales                               |
-| 15     | Preparación de sustentación                                   |
-| 16     | Sustentación del proyecto                                     |
+El siguiente cronograma muestra la distribución semanal de las fases del proyecto, desde la definición inicial hasta la sustentación final:
+
+| Actividad                                               | Semana 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+|---------------------------------------------------------|----------|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|
+| 🧑‍🤝‍🧑 Reunión inicial, definición del equipo             |   ██     |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| 📋 Recolección de requisitos                            |      ██  |██ |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| 🧠 Diseño general del sistema (estructuras + validaciones) |         ██ |██ |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| 💻 Desarrollo de funcionalidades principales (1–3)      |             ██ |██ |██ |   |   |   |   |    |    |    |    |    |    |    |
+| 🧪 Pruebas iniciales + Entrega parcial                  |                       ██ |██ |   |   |   |   |    |    |    |    |    |    |
+| 🗃 Desarrollo módulo administrativo + exportaciones     |                             ██ |██ |██ |██ |    |    |    |    |    |    |
+| 📝 Redacción de documentación (README, manual, licencia)|                                       ██ |██ |    |    |    |    |
+| 🔍 Pruebas finales + generación de informes CSV         |                                           ██ |██ |    |    |    |
+| 🎤 Preparación de sustentación                          |                                                 ██ |    |    |
+| ✅ Sustentación del proyecto                            |                                                     ██ |
+
 
 #### Presupuesto del Proyecto
 El desarrollo del proyecto se calcula con base en **tiempo de práctica formativa**. Nuestro equipo está conformado por **2 estudiantes**, con una dedicación total estimada de **50 horas** (25 horas por estudiante).
