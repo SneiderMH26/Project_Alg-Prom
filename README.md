@@ -133,7 +133,7 @@ El desarrollo del proyecto se calcula con base en **tiempo de práctica formativ
 
 *(**Nota**: Este valor es simbólico y representa el tiempo invertido como práctica formativa, no un cobro monetario.)*
 
-### Plan de Versionado - Parking Trust
+#### Plan de Versionado - Parking Trust
 
 A continuación se describe el historial de versiones del software "Parking Trust".
 
@@ -146,8 +146,9 @@ A continuación se describe el historial de versiones del software "Parking Trus
 | 0.5     | 2025-07-01  | Submenú administrador con reportes y estadísticas.             |
 | 1.0     | 2025-07-12  | Versión final: exportación CSV, login, y documentación completa.|
 
-### Código fuente carpeta src
+#### Código fuente carpeta src
 
 El código principal del proyecto se encuentra en la carpeta [`src`](./src):
 
 - [`parking_trust.py`](./src/parking_trust.py): contiene todo el algoritmo funcional del sistema Parking Trust, desde el registro hasta los reportes administrativos y la exportación de datos.
+
