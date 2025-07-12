@@ -132,3 +132,17 @@ El desarrollo del proyecto se calcula con base en **tiempo de práctica formativ
   50 horas × $8.896,87 = **$444.853,75 COP (equivalente en tiempo invertido)**
 
 *(**Nota**: Este valor es simbólico y representa el tiempo invertido como práctica formativa, no un cobro monetario.)*
+
+### Plan de Versionado - Parking Trust
+
+A continuación se describe el historial de versiones del software "Parking Trust".
+
+| Versión | Fecha       | Descripción                                                     |
+|--------:|-------------|-----------------------------------------------------------------|
+| 0.1     | 2025-04-28  | Inicio del proyecto. Se define la estructura y requisitos.     |
+| 0.2     | 2025-05-15  | Se desarrolla el registro de usuarios y validaciones.          |
+| 0.3     | 2025-05-26  | Implementación del ingreso de vehículos y gestión de parqueo.  |
+| 0.4     | 2025-06-03  | Módulo de retiro de vehículos y cálculo de tarifas.            |
+| 0.5     | 2025-07-01  | Submenú administrador con reportes y estadísticas.             |
+| 1.0     | 2025-07-12  | Versión final: exportación CSV, login, y documentación completa.|
+
