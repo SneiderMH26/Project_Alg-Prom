@@ -110,7 +110,7 @@ S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar
 9. Documentación técnica y manual de usuario
 10. Presentación final y sustentación del proyecto
 
-### 8. Plan de proyecto (Cronograma de actividades (tipo Gantt))
+#### Plan de proyecto (Cronograma de actividades (tipo Gantt))
 
 El siguiente cronograma muestra la distribución semanal de las fases del proyecto, desde la definición inicial hasta la sustentación final:
 
