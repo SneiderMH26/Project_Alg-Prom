@@ -152,3 +152,6 @@ El código principal del proyecto se encuentra en la carpeta [`src`](./src):
 
 - [`parking_trust.py`](./src/parking_trust.py): contiene todo el algoritmo funcional del sistema Parking Trust, desde el registro hasta los reportes administrativos y la exportación de datos.
 
+#### Manual de Usuario
+
+El manual completo de uso del sistema Parking Trust está disponible en [`doc/manual_usuario.md`](./doc/manual_usuario.md).
