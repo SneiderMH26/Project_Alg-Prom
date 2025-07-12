@@ -110,7 +110,7 @@ S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar
 9. Documentación técnica y manual de usuario
 10. Presentación final y sustentación del proyecto
 
-#### Plan de proyecto (Cronograma de actividades (tipo Gantt))
+### 8. Plan de proyecto (Cronograma de actividades (tipo Gantt))
 
 El siguiente cronograma muestra la distribución semanal de las fases del proyecto, desde la definición inicial hasta la sustentación final:
 
@@ -140,7 +140,7 @@ El desarrollo del proyecto se calcula con base en **tiempo de práctica formativ
 
 *(**Nota**: Este valor es simbólico y representa el tiempo invertido como práctica formativa, no un cobro monetario.)*
 
-#### Plan de Versionado - Parking Trust
+### 8. Plan de Versionado - Parking Trust
 
 A continuación se describe el historial de versiones del software "Parking Trust".
 
@@ -153,12 +153,12 @@ A continuación se describe el historial de versiones del software "Parking Trus
 | 0.5     | Submenú administrador con reportes y estadísticas.              |
 | 1.0     | Versión final: exportación CSV, login, y documentación completa.|
 
-#### Código fuente carpeta src
+### 9. Código fuente carpeta src
 
 El código principal del proyecto se encuentra en la carpeta [`src`](./src):
 
 - [`parking_trust.py`](./src/parking_trust.py): contiene todo el algoritmo funcional del sistema Parking Trust, desde el registro hasta los reportes administrativos y la exportación de datos.
 
-#### Manual de Usuario
+### 10. Manual de Usuario
 
 El manual completo de uso del sistema Parking Trust está disponible en [`doc/manual_usuario.md`](./doc/manual_usuario.md).
