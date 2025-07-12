@@ -114,18 +114,18 @@ S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar
 
 El siguiente cronograma muestra la distribución semanal de las fases del proyecto, desde la definición inicial hasta la sustentación final:
 
-| Actividad                                               | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-|---------------------------------------------------------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|
-| Reunión inicial, definición del equipo                  | ██|   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| Recolección de requisitos                               |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| Diseño general del sistema (estructuras + validaciones) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| Desarrollo de funcionalidades principales (1–3)         |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| Pruebas iniciales + Entrega parcial                     |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    | 
-| Desarrollo módulo administrativo + exportaciones        |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| Redacción de documentación (README, manual, licencia)   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| Pruebas finales + generación de informes CSV            |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| Preparación de sustentación                             |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| Sustentación del proyecto                               |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| Actividad                                               | 1  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+|---------------------------------------------------------|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| Reunión inicial, definición del equipo                  | ██ | ██ |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+| Recolección de requisitos                               | ██ | ██ | ██ |    |    |    |    |    |    |    |    |    |    |    |    |    |
+| Diseño general del sistema (estructuras + validaciones) | ██ | ██ | ██ | ██ |    |    |    |    |    |    |    |    |    |    |    |    |
+| Desarrollo de funcionalidades principales (1–3)         |    |    |    |    | ██ | ██ | ██ | ██ | ██ | ██ |    |    |    |    |    |    |
+| Pruebas iniciales + Entrega parcial                     |    |    |    |    |    |    | ██ | ██ |    |    |    |    |    |    |    |    | 
+| Desarrollo módulo administrativo + exportaciones        |    |    |    |    |    |    |    |    |    |    |    | ██ | ██ | ██ |    |    |
+| Redacción de documentación (README, manual, licencia)   | ██ | ██ | ██ | ██ | ██ |    |    |    |    | ██ | ██ | ██ | ██ | ██ | ██ | ██ |
+| Pruebas finales + generación de informes CSV            |    |    |    |    |    |    |    |    |    |    |    |    |    |    | ██ | ██ |
+| Preparación de sustentación                             |    |    |    |    |    |    |    |    |    |    |    |    |    |    | ██ | ██ |
+| Sustentación del proyecto                               |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    | ██ |
 
 
 #### Presupuesto del Proyecto
@@ -144,14 +144,14 @@ El desarrollo del proyecto se calcula con base en **tiempo de práctica formativ
 
 A continuación se describe el historial de versiones del software "Parking Trust".
 
-| Versión | Fecha       | Descripción                                                     |
-|--------:|-------------|-----------------------------------------------------------------|
-| 0.1     | 2025-04-28  | Inicio del proyecto. Se define la estructura y requisitos.     |
-| 0.2     | 2025-05-15  | Se desarrolla el registro de usuarios y validaciones.          |
-| 0.3     | 2025-05-26  | Implementación del ingreso de vehículos y gestión de parqueo.  |
-| 0.4     | 2025-06-03  | Módulo de retiro de vehículos y cálculo de tarifas.            |
-| 0.5     | 2025-07-01  | Submenú administrador con reportes y estadísticas.             |
-| 1.0     | 2025-07-12  | Versión final: exportación CSV, login, y documentación completa.|
+| Versión | Descripción                                                     |
+|--------:|-----------------------------------------------------------------|
+| 0.1     | Inicio del proyecto. Se define la estructura y requisitos.      |
+| 0.2     | Se desarrolla el registro de usuarios y validaciones.           |
+| 0.3     | Implementación del ingreso de vehículos y gestión de parqueo.   |
+| 0.4     | Módulo de retiro de vehículos y cálculo de tarifas.             |
+| 0.5     | Submenú administrador con reportes y estadísticas.              |
+| 1.0     | Versión final: exportación CSV, login, y documentación completa.|
 
 #### Código fuente carpeta src
 
