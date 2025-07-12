@@ -114,18 +114,18 @@ S.I.P.U es una aplicación de consola desarrollada en Python que busca gestionar
 
 El siguiente cronograma muestra la distribución semanal de las fases del proyecto, desde la definición inicial hasta la sustentación final:
 
-| Actividad                                               | Semana 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-|---------------------------------------------------------|----------|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|
-| 🧑‍🤝‍🧑 Reunión inicial, definición del equipo             |   ██     |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| 📋 Recolección de requisitos                            |      ██  |██ |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| 🧠 Diseño general del sistema (estructuras + validaciones) |         ██ |██ |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| 💻 Desarrollo de funcionalidades principales (1–3)      |             ██ |██ |██ |   |   |   |   |    |    |    |    |    |    |    |
-| 🧪 Pruebas iniciales + Entrega parcial                  |                       ██ |██ |   |   |   |   |    |    |    |    |    |    |
-| 🗃 Desarrollo módulo administrativo + exportaciones     |                             ██ |██ |██ |██ |    |    |    |    |    |    |
-| 📝 Redacción de documentación (README, manual, licencia)|                                       ██ |██ |    |    |    |    |
-| 🔍 Pruebas finales + generación de informes CSV         |                                           ██ |██ |    |    |    |
-| 🎤 Preparación de sustentación                          |                                                 ██ |    |    |
-| ✅ Sustentación del proyecto                            |                                                     ██ |
+| Actividad                                               | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+|---------------------------------------------------------|---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|
+| Reunión inicial, definición del equipo                  | ██|   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| Recolección de requisitos                               |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| Diseño general del sistema (estructuras + validaciones) |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| Desarrollo de funcionalidades principales (1–3)         |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| Pruebas iniciales + Entrega parcial                     |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    | 
+| Desarrollo módulo administrativo + exportaciones        |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| Redacción de documentación (README, manual, licencia)   |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| Pruebas finales + generación de informes CSV            |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| Preparación de sustentación                             |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
+| Sustentación del proyecto                               |   |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
 
 
 #### Presupuesto del Proyecto
